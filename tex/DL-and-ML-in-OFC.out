@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Introduction \(i.e. Background and Significance\)}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Methods and dataset description}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Data analysis and Results}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Data preprocessing}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Method 1: Fully-connected}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Method 2: Convolutional Neural Network}{subsection.1.3}% 7
+\BOOKMARK [3][-]{subsubsection.1.3.4}{Method 3: Decision Trees}{subsection.1.3}% 8
+\BOOKMARK [1][-]{section.2}{Conclusion/Discussion}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{References}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.2}{Supplemental Information}{section.2}% 11

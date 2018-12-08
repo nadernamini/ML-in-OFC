@@ -1,7 +1,6 @@
 # DL and ML in OFC
 
-## What is the central question that you are asking and
- why is it important? (max: 2 sentences)
+## What is the central question that you are asking and why is it important? (max: 2 sentences)
 
 (Jupyter Notebook) Can we use a machine learning model
 , i.e. deep learning, to predict decisions based on 
@@ -32,13 +31,12 @@ I will be using PCA and ICA to reduce the dimension of the data. I will research
 ## What do you expect to find and what will you do if you do not find the expected results? (max: 3 sentences)
 I expect to find a deep learning model that is able to predict decisions in the majority of cases. This is because deep learning models have been proven to be able to extract patterns in the data that were not previously extractable using other models. If I do fail to find the expected results, I will report my findings and possible reasons for short-comings of the models and try to propose different experimental data or model that could possibly tackle this question.
 
+
+## TODO
+- [ ] find average filter for both convolutional layers for each decision for one subject (subject 3, preferably)
+- [ ] find average decision rule for random forest for each decision for one subject (subject 3, preferably)
+
 ## Citations
-- __OFC-1__<br>
-Claudia E. Feierstein, Michael C. Quirk, Naoshige Uchida, Dara L. Sosulski, Zachary F. Mainen (2016). Single-neuron spike train recordings from rat orbitofrontal cortex during an odor discrimination task. CRCNS.org.<br>
-http://dx.doi.org/10.6080/K0QC01D2
-- __OFC-2__<br>
-Naoshige Uchida, Adam Kepecs, Hatim A. Zariwala, and Zachary F. Mainen. (2016) Single-neuron spike train recordings from rat orbitofrontal cortex during an odor classification task. CRCNS.org<br>
-http://dx.doi.org/10.6080/K0FT8HZ2
 - __OFC-3__<br>
 Ignacio Saez, Jack Lin, Arjen Stolk, Edward Chang, Josef Parvizi, Gerwin Schalk, Robert T. Knight, and Ming Hsu (2018); High-frequency activity of human orbitofrontal sites during decision-making play. CRCNS.org<br>
 http://dx.doi.org/10.6080/K0VM49GF
