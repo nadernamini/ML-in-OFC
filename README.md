@@ -1,4 +1,4 @@
-# ML in OFC
+# Machine Learning-Based Decision Prediction using Electrocorticography data
 
 ## What is the central question that you are asking and why is it important? (max: 2 sentences)
 
